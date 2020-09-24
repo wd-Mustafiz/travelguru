@@ -1,0 +1,15 @@
+.single_spot {
+  position: relative;
+  transition: 0.4s;
+  cursor: pointer;
+}
+.single_spot:hover {
+  border: 4px solid yellow;
+  border-radius: 29px;
+}
+.Spot_name {
+  color: white;
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+}
